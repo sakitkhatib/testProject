@@ -1,3 +1,4 @@
 print('hello')
 print('world')
-print/('hahaha')
+print('hahaha')
+print('hehehehe')
